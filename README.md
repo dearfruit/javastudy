@@ -1,2 +1,2 @@
 # javastudy
-java study blog
+java学习博客
